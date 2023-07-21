@@ -1,0 +1,61 @@
+1. IN YOUR SERVER.CFG - ensure ym-chew
+
+2. IN ox_inventory/data/items.lua
+
+['siberia'] = {
+    label = 'Siberia',
+    description = "Nabij si síbu",
+    weight = 1,
+    stack = true
+},
+
+['vela-2-berryfrost'] = {
+    label = 'Velo 2 Berryfrost',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+['vela-4-berryfrost'] = {
+    label = 'Velo 4 Berryfrost',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+['kurwa'] = {
+    label = 'Kurwa',
+    description = "Nabij si Kurwu kurva!",
+    weight = 1,
+    stack = true
+},
+
+['vela-4-royalpurple'] = {
+    label = 'Velo 4 Royalpurple',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+['dope-2-icemango'] = {
+    label = 'Dope 2 Ice Mango',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+['dope-4-limesmash'] = {
+    label = 'Dope 4 Lime Smash',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+['vela-4-tropicbreeze'] = {
+    label = 'Velo 4 Tropic Breeze',
+    description = "Nabij si!",
+    weight = 1,
+    stack = true
+},
+
+3. PUT images IN TO ox_inventory/web/images
